@@ -1,0 +1,10 @@
+total 44
+drwx------ 12 urpadm urpadm  4096 Jan 23 00:01 job1-2
+drwx------  7 urpadm urpadm  4096 Jan 23 00:02 urs-sftp
+drwx------  2 urpadm urpadm  4096 Jan 23 00:03 bin
+drwx------ 13 urpadm urpadm  4096 Jan 24 00:08 supahrepo
+drwx------ 10 urpadm urpadm  4096 Jan 24 11:25 URS
+drwx------  2 urpadm urpadm  4096 Jan 24 14:22 scripts
+drwx------  2 urpadm urpadm 12288 Jan 28 14:06 wln_filer_backup
+drwx------  7 urpadm urpadm  4096 Jan 28 17:58 job3-4
+drwx------  8 urpadm urpadm  4096 Jan 29 08:06 supahrepo2
